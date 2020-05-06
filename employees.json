@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Gamel Zan",
+        "employeeID": "ESCO112",
+        "position": "Head of Finance",
+        "contact": "00233245344312",
+        "email": "gamelz@esco.com",
+        "image": "/images/zan.jpg"
+    },
+    {
+        "name": "Asiedu Emmanuel",
+        "employeeID": "ESCO122",
+        "position": "Head of IT",
+        "contact": "00233245456432",
+        "email": "asiedemma@esco.com",
+        "image": "/images/emma.jpg"
+    },
+    {
+        "name": "Kenneth Dogbey",
+        "employeeID": "ESCO113",
+        "position": "Executive Director",
+        "contact": "00233245346742",
+        "email": "dkenneth@esco.com",
+        "image": "/images/ken.jpg"
+    },
+    {
+        "name": "Silas Gah",
+        "employeeID": "ESCO134",
+        "position": "Head of Cyber Unit",
+        "contact": "00233245355312",
+        "email": "gsilas@esco.com",
+        "image": "/images/silas.jpg"
+    },
+    {
+        "name": "Mawunyo Selasi",
+        "employeeID": "ESCO102",
+        "position": "Head of Sanitation",
+        "contact": "00233245343702",
+        "email": "manyosel@esco.com",
+        "image": "/images/mawunyo.jpg"
+    },
+    {
+        "name": "Mensah Charlse",
+        "employeeID": "ESCO118",
+        "position": "Messengeer",
+        "contact": "00233245344000",
+        "email": "mensahc@esco.com",
+        "image": "/images/mensah.jpg"
+    },
+    {
+        "name": "Sokpoli Justice",
+        "employeeID": "ESCO132",
+        "position": "Chief Driver",
+        "contact": "00233245399912",
+        "email": "jsokpoli@esco.com",
+        "image": "/images/justice.jpg"
+    },
+    {
+        "name": "Barbara Mawuena",
+        "employeeID": "ESCO143",
+        "position": "HR",
+        "contact": "00233246894312",
+        "email": "barbaramaw@esco.com",
+        "image": "/images/barbara.jpg"
+    },
+    {
+        "name": "Lawson Sybill",
+        "employeeID": "ESCO129",
+        "position": "Dispatch",
+        "contact": "00233245387652",
+        "email": "lawsonsyb@esco.com",
+        "image": "/images/lawson.jpg"
+    },
+    {
+        "name": "Bismark Awol",
+        "employeeID": "ESCO145",
+        "position": "Administrator",
+        "contact": "00233245349875",
+        "email": "bismarkawol@esco.com",
+        "image": "/images/awor.jpg"
+    },
+    {
+        "name": "Darko Paulina",
+        "employeeID": "ESCO133",
+        "position": "Secretary",
+        "contact": "00233246459812",
+        "email": "darkop@esco.com",
+        "image": "/images/darko.jpg"
+    }
+]

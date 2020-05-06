@@ -1,0 +1,62 @@
+[
+    {
+        "task": "Prepare financial reports",
+        "dept": "Finance Department",
+        "time": "10:20",
+        "venue": "HQ"
+    },
+    {
+        "task": "Organise IT training",
+        "dept": "IT Department",
+        "time": "11:00",
+        "venue": "HQ"
+    },
+    {
+        "task": "Organise board meetings",
+        "dept": "Director",
+        "time": "09:00",
+        "venue": "HQ"
+    },
+    {
+        "task": "General fumigation",
+        "dept": "Sanitation",
+        "time": "07:20",
+        "venue": "HQ on saturday"
+    },
+    {
+        "task": "Dispatch",
+        "dept": "Records Department",
+        "time": "09:40",
+        "venue": "HQ to other offices"
+    },
+    {
+        "task": "Prepare cars due for maintanace",
+        "dept": "MT Department",
+        "time": "06:00",
+        "venue": "Service workshop"
+    },
+    {
+        "task": "Orginse refresher cause for staffs",
+        "dept": "HR",
+        "time": "09:00",
+        "venue": "HQ Conference room"
+    },
+    {
+        "task": "Do physical security analysis",
+        "dept": "Security Department",
+        "time": "06:20",
+        "venue": "HQ"
+    },
+    {
+        "task": "Ensure administration is up to task",
+        "dept": "Admin",
+        "time": "08:00",
+        "venue": "HQ"
+    },
+    {
+        "task": "Schedule meetings",
+        "dept": "Secretary",
+        "time": "10:00",
+        "venue": "HQ"
+    }
+]
